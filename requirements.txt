@@ -1,3 +1,13 @@
+streamlit
+python-dotenv
+sqlalchemy
+pymysql
+langchain
+langchain-openai
+langchain-community
+openai
+faiss-cpu
+
 aiobotocore @ file:///C:/b/abs_431uzunk2v/croot/aiobotocore_1738237882529/work
 aiofiles==24.1.0
 aiohappyeyeballs @ file:///C:/b/abs_e9fm5mk6ak/croot/aiohappyeyeballs_1734469429350/work
@@ -481,3 +491,4 @@ zict @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/zict_172905
 zipp @ file:///C:/b/abs_2fcpcg89my/croot/zipp_1732630746332/work
 zope.interface @ file:///C:/Users/dev-admin/buildout/croot/zope.interface_1735850995906/work
 zstandard @ file:///C:/b/abs_31t8xmrv_h/croot/zstandard_1731356578015/work
+
